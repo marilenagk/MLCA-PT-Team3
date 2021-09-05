@@ -16,5 +16,6 @@
 2) Weight Folder:
    Included the Embeddings
  
-3) Report:
-  Included the Report
+3) Machine Learning and Content Analytics Report_Team 3.pdf:
+
+   This is the report
